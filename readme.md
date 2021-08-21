@@ -21,4 +21,4 @@ A Flask web app that uses the Yandex Geocoder API to calculate the distance in k
 - input destunation
 
 ## Docker image
-- docker pull jamesonspiff/distance-calculator
+- docker pull jamesonspiff/distance-calculator:1.0
